@@ -1,8 +1,12 @@
 .TodoItem {
-    color: red;
+    font-family: "helvetica neue";
+    font-weight: 200;
+    font-size: 24px;
+    color: #4d4d4d;
     text-align: center;
 }
 .TodoItem-complete {
     text-decoration: line-through;
     color: black;
+    opacity: .3;
 }

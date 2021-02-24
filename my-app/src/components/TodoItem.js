@@ -6,7 +6,7 @@ class TodoItem extends Component {
         let className = 'TodoItem';
         if (item.isComplete) {
             className += ' TodoItem-complete';
-        }
+        } 
         return (
             <div className={className}>
                 <h3>{this.props.item.title}</h3>
