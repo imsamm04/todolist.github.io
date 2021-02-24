@@ -1,0 +1,8 @@
+.TodoItem {
+    color: red;
+    text-align: center;
+}
+.TodoItem-complete {
+    text-decoration: line-through;
+    color: black;
+}
