@@ -5,9 +5,9 @@ class App extends Component {
   constructor() {
     super();
     this.todoItems = [
-     { title: 'BMV', isComplete: true},
-		 { title: 'MEC'},
-		 { title: 'AUDI'},
+     { title: 'c1', isComplete: true},
+		 { title: 'c2'},
+		 { title: 'c3'},
     ];
   }
   render() {
