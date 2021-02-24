@@ -8,6 +8,7 @@ class App extends Component {
      { title: 'c1', isComplete: true},
 		 { title: 'c2'},
 		 { title: 'c3'},
+     { title: 'c3'},
     ];
   }
   render() {
